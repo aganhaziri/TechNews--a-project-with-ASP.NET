@@ -1,0 +1,28 @@
+﻿@model List<NewsItem>
+
+@{
+    ViewData["Name"] = "Post";
+}
+
+<h2>Our Posts</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        if (item.Complete == true)
+        {
+            <li>
+                @item.Post_Title
+
+                @item.Post_Content
+
+                <a href="@Url.Action("Edit",new { id = item.Post_Id })">Edit</a>
+                <a href="@Url.Action("Delete",new { id = item.Post_Id })">Delete</a>
+
+            </li>
+        }
+
+    }
+</ul>
+
+<a asp-action="Create">Create New Post</a>

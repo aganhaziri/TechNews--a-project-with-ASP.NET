@@ -1,0 +1,16 @@
+﻿@model NewsItem
+
+@{
+    ViewData["Name"] = "Create";
+}
+
+<h2>Create A new Post</h2>
+
+<form asp-action="Create" method="post">
+    <input type="text" asp-for="Post_Title" placeholder="Post Title" />
+    <span asp-validation-for="Post_Title"></span>
+    <input type="text" asp-for="Post_Content" placeholder="Post Content" />
+    <span asp-validation-for="Post_Content"></span>
+    <input type="submit" value="submit" />
+
+</form>

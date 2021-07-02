@@ -1,0 +1,82 @@
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.exe
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.deps.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.runtimeconfig.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.runtimeconfig.dev.json
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.dll
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.pdb
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.Views.dll
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.Views.pdb
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csprojAssemblyReference.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.AssemblyInfoInputs.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.AssemblyInfo.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csproj.CoreCompileInputs.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorAssemblyInfo.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorAssemblyInfo.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.TagHelpers.input.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.TagHelpers.output.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorCoreGenerate.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorTargetAssemblyInfo.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorTargetAssemblyInfo.cs
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.Views.pdb
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\staticwebassets\ItNews.StaticWebAssets.Manifest.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\staticwebassets\ItNews.StaticWebAssets.xml
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.dll
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.pdb
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.genruntimeconfig.cache
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csproj.CopyComplete
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.exe
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.deps.json
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.runtimeconfig.json
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.runtimeconfig.dev.json
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.dll
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.pdb
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.Views.dll
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\bin\Debug\netcoreapp3.1\ItNews.Views.pdb
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csprojAssemblyReference.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.AssemblyInfoInputs.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.AssemblyInfo.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csproj.CoreCompileInputs.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorAssemblyInfo.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorAssemblyInfo.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\staticwebassets\ItNews.StaticWebAssets.Manifest.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\staticwebassets\ItNews.StaticWebAssets.xml
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\scopedcss\bundle\ItNews.styles.css
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.TagHelpers.input.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.TagHelpers.output.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorCoreGenerate.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Post.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorTargetAssemblyInfo.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.RazorTargetAssemblyInfo.cs
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.Views.pdb
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.dll
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.pdb
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.genruntimeconfig.cache
+C:\Users\abi\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\ItNews.csproj.CopyComplete
+C:\Users\Agani's Gaming PC\Source\Repos\IT News\ItNews\ItNews\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Post.cshtml.g.cs
